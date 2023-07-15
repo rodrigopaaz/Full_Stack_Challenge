@@ -1,0 +1,7 @@
+.menu-container{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    flex-grow: 15;
+    background-color: rgb(87, 82, 92);
+}
